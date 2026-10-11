@@ -1,0 +1,399 @@
+
+=== Pagina 1 ===
+May 16, 2021
+Boletín de mayo de 2021: Inflación impulsada por el fiscal
+ lynalden.com/may-2021-newsletter
+16 de mayo de 2021
+Artículos recientes:
+Recientemente publiqué un artículo de investigación extenso sobre la inflación y un artículo sobre
+algunas de las dinámicas de la capitalización bursátil y las burbujas de activos.
+La guía definitiva para la inflación
+Cómo funciona la capitalización bursátil
+Este boletín amplía el tema de la inflación analizando cómo se está manifestando este año en
+particular, examina por qué la situación actual es más comparable a la de los años 40 que a la de
+los 70, y concluye con algunas de las implicaciones de inversión que conlleva.
+La semana pasada, el índice de precios al consumidor superó ampliamente las expectativas del
+consenso, beneficiándose de efectos de baja base y subidas de precios más rápidas de lo
+esperado. Las cifras interanuales están siendo bastante altas en este momento:
+1/29
+=== Pagina 2 ===
+Las cifras mes a mes filtran los efectos base del año anterior, pero también son muy intensas:
+2/29
+=== Pagina 3 ===
+Así que, vamos a profundizar y ver de dónde viene todo esto y cómo es probable que se
+manifieste en el futuro.
+Se despliega el ciclo de la deuda a largo plazo
+Uno de mis temas principales en los últimos 18-24 meses ha sido explorar el ciclo de deuda a
+largo plazo, popularizado hace años por Ray Dalio, que describe un marco para esperar cambios
+de tendencia en política fiscal, política monetaria e inflación/deflación.
+Voy a resumir el ciclo de nuevo para quienes no han seguido mi trabajo, pero también aportar
+algunos gráficos nuevos y relacionarlo con algunas de las tendencias actuales que estamos
+viendo a mediados de 2021 para quienes lo conocen.
+Cada ciclo económico normal de cinco a diez años en la historia moderna de Estados Unidos ha
+terminado con una deuda mayor como porcentaje del PIB y tipos de interés más bajos que el
+ciclo anterior. A medida que muchos de esos ciclos de deuda a corto plazo se encadenan, la
+deuda como porcentaje del PIB sigue subiendo y los tipos de interés siguen bajando en mínimos,
+hasta que la deuda alcanza niveles insostenibles y los tipos de interés llegan a cero.
+Los tipos de interés alcanzaron cero y la deuda privada alcanzó niveles extremadamente altos en
+2008 durante la Crisis Financiera Global, y la última vez que esto ocurrió fue a principios de los
+años 30, en las primeras fases de la Gran Depresión. En ambos casos, hubo una crisis bancaria
+sistémica (marcada en verde), que llevó a los responsables de la política fiscal y monetaria a
+ampliar la base monetaria y tomar otras medidas para recapitalizar el sistema bancario.
+3/29
+=== Pagina 4 ===
+4/29
+=== Pagina 5 ===
+Lo que hace que el final de un ciclo de deuda a largo plazo sea diferente al final de un ciclo de
+deuda a corto plazo es que las etapas finales de un ciclo de deuda a largo plazo, tanto en la
+historia de Estados Unidos como en otros lugares, se caracterizan generalmente por un grado
+significativo de dominio fiscal y devaluación de la moneda.
+Esto se debe a que, al final de un ciclo de deuda a largo plazo, los niveles de deuda se vuelven
+tan altos en relación con el tamaño de la economía que se vuelve imposible desapalancarlos
+nominalmente sin colapsar la economía, por lo que en su lugar aumentan los denominadores: la
+base monetaria, la oferta monetaria general y el PIB nominal con un componente inflacionario
+significativo. El mecanismo para hacer esto implica grandes déficits fiscales monetizados,
+acompañados de un banco central dispuesto a mantener los tipos muy por debajo de la tasa de
+inflación vigente durante un tiempo, lo que infla efectivamente partes de la deuda.
+La alternativa a este proceso es un colapso económico deflacionario, que es una vía que el
+público y los responsables políticos de todo el mundo rara vez, si es que alguna vez, eligen. En
+otras palabras, cuando llega el momento y el sistema se lleva al límite, los responsables políticos
+invariablemente imprimen.
+El eco de 80 años
+La historia no puede contarnos todo, pero junto con el análisis de las condiciones actuales, puede
+orientarnos en la dirección correcta.
+En términos de política fiscal y monetaria, los años 2010 fueron muy similares a los años 30
+(burbuja de deuda privada desinflacionada y desapalancamiento), y los 2020 se perfilan más
+como los años 40 (finanzas de guerra impulsadas por fiscalidad inflacionaria). El gráfico anterior
+muestra claramente las similitudes, pero esta siguiente sección profundiza en los detalles.
+Décadas de 1930 y 2010
+Tras el estallido de la burbuja de la deuda en 1929, los años 30 vivieron una larga burbuja
+deflacionaria de deuda privada que se desapalancó, lo que resultó en un crecimiento económico
+lento y un aumento del populismo político. El estímulo fiscal en esa década fue grande en
+términos absolutos, pero pequeño en comparación con la cantidad de dinero destruido por
+pérdidas de préstamos. La mayor parte del enfoque se centró en recapitalizar el sistema
+bancario. Por ello, la década fue desinflacionista.
+Una forma muy básica de medir el apalancamiento financiero en el sistema financiero es analizar
+la base monetaria como un porcentaje del total de préstamos bancarios. Cuanto menor es la
+ratio, más apalancado está el sistema, ya que hay menos dinero base que respalde el importe
+5/29
+=== Pagina 6 ===
+total de los préstamos bancarios. Esta proporción tocó fondo del 12% justo al inicio de la Gran
+Depresión.
+Aproximadamente 80 años después, este proceso volvió a desarrollarse, cuando estalló la
+siguiente burbuja de deuda privada a largo plazo en 2008 y continuó el desapalancamiento hasta
+principios de la década de 2010.
+Curiosamente, la proporción de la base monetaria en comparación con el total de préstamos
+bancarios alcanzó tan solo un 12,5% justo antes de la crisis:
+6/29
+=== Pagina 7 ===
+Fuente de la lista: St. Louis Fed
+Hay más datos disponibles sobre el evento de 2008, ya que se celebra en tiempos modernos, lo
+que nos permite examinar la situación de los bancos sobreapalancados desde más ángulos.
+Por ejemplo, aquí hay un gráfico de niveles de efectivo y niveles de seguridad del Tesoro como
+porcentaje del total de activos de los grandes bancos estadounidenses:
+7/29
+=== Pagina 8 ===
+Fuente de la lista: St. Louis Fed
+En 2008, los grandes bancos tenían menos del 3% de efectivo y un 10% de bonos del Tesoro, o
+alrededor del 13% de activos libres de riesgo combinados, como porcentaje de sus activos
+totales. Históricamente, eso es muy bajo. La mayoría de sus otros activos eran préstamos,
+incluyendo muchos préstamos arriesgados que salieron mal cuando el mercado inmobiliario
+sobrevalorado cayó. A medida que los bancos se desmoronaban bajo la implosión del ciclo de la
+deuda privada, los responsables de la política fiscal y monetaria recapitalizaron el sistema
+bancario, manteniendo la mayor parte del sistema bancario en solvencia pero permitiendo en
+gran medida que los propietarios sobreapalancados quebraran.
+Viéndolo desde otra perspectiva, este siguiente gráfico muestra la deuda pública y privada total
+como una proporción de la oferta monetaria amplia (M2) en Estados Unidos en azul en el eje
+izquierdo. También añadí el tipo de interés de los fondos federales y la base monetaria como
+porcentaje del PIB en el eje derecho.
+8/29
+=== Pagina 9 ===
+Fuente de la lista: St. Louis Fed
+La deuda total siguió aumentando más rápido que la oferta monetaria durante décadas (la línea
+azul subió), con la ratio deuda total sobre oferta monetaria superando el 700% en su punto
+máximo, hasta que ocurrió la crisis financiera de 2008. Tras esa implosión, la oferta monetaria
+comenzó a crecer más rápido que la deuda (la línea azul bajando), y 2020 aceleró este proceso
+de desapalancamiento con otra pierna hacia abajo. La proporción ya ha bajado por debajo del
+450% y está bajando.
+Mirándolo desde un tercer punto de vista, aquí está la deuda privada total en términos de dólares
+en Estados Unidos en azul en el eje izquierdo, la deuda privada como ratio del PIB en rojo en el
+eje derecho, y la deuda privada como coeficiente de la oferta monetaria amplia en verde en el eje
+derecho.
+9/29
+=== Pagina 10 ===
+Fuente de la lista: St. Louis Fed
+Cuando la deuda privada acumula durante décadas hasta casi el 300% del PIB y más del 600%
+de la oferta monetaria general, no hay forma de desapalancar nominalmente ese monstruo. Entre
+2008 y 2012, la reducción total de deuda privada en términos absolutos fue de solo unos 3,6
+billones de dólares, o el 8% del total de 45 billones, y luego volvió a aumentar. Ahora son más de
+55 billones.
+En cambio, lo que más cambió es el denominador. La deuda empezó a crecer a un ritmo más
+lento, mientras que el dinero general empezó a crecer más rápido, lo que resultó en una
+disminución de la proporción de deuda privada respecto a la oferta monetaria.
+De forma similar a los años 30, la respuesta del gobierno tras la crisis de 2008 y hasta principios
+de la década de 2010 tuvo un componente fiscal relativamente grande, pero solo compensó
+parcialmente las pérdidas de préstamos en la economía, en lugar de estimularla. La década fue
+generalmente desinflacionaria, ya que esta burbuja de deuda se prolongó durante años.
+A finales de la década de 2010, a pesar de la recuperación en algunas áreas, incluyendo un gran
+auge en los precios de los activos, muchos aspectos de la economía, incluido el sector industrial
+y la tasa general de participación laboral, no lograron recuperarse completamente del desastre de
+2008. Mi boletín de enero llamado The Hindsight Depression trató este tema.
+10/29
+=== Pagina 11 ===
+Años 40 y 2020
+Tras la década de estancamiento económico y crecientes tensiones políticas en todo el mundo en
+los años 30, estalló la Segunda Guerra Mundial en los años 40.
+Esta guerra representó un catalizador externo que forzó una respuesta fiscal absolutamente
+masiva por parte del gobierno federal de EE. UU. y de otros gobiernos, lo que eclipsó el estímulo
+fiscal de los años 30. Estados Unidos construyó una gran cantidad de producción industrial
+nacional, envió soldados al extranjero y, cuando regresaron, ocho millones de ellos recibieron
+educación universitaria o formación a cargo del gobierno, junto con otros beneficios como la
+ayuda hipotecaria. El exceso de producción industrial se reutilizó para uso doméstico.
+Los déficits presupuestarios federales eran tan grandes, y se emitieron tantos bonos del Tesoro
+para pagarlos, que la Reserva Federal tuvo que crear mucho dinero base nuevo para comprar
+una gran parte de los bonos del Tesoro en el mercado secundario y mantener los rendimientos
+bajos, también conocido como monetización del déficit y control de la curva de rendimientos. A
+diferencia de los años 30 desinflacionistas, esta cantidad de gasto fiscal y monetización del déficit
+en los años 40 fue altamente inflacionaria. La oferta monetaria y la demanda total aumentaron
+más rápido de lo que la oferta podía seguir.
+De manera similar, al comenzar la década de 2020, la deuda privada seguía siendo bastante alta
+en el sistema a pesar de una década de leve desapalancamiento de los hogares en la década de
+2010. Además, con tanta concentración de riqueza, decenas de millones de personas en Estados
+Unidos no podrían pasar más de un mes sin un sueldo. Debido a una combinación de múltiples
+factores, la economía comenzó a desacelerarse a finales de 2018 y durante todo 2019.
+Cuando llegó la COVID-19 a principios de 2020 y los países iniciaron cierres económicos para
+frenar el virus, provocó la fractura de la economía global, altamente apalancada. Una economía
+global con tanta deuda es frágil y no puede persistir sin un flujo de caja constante.
+En respuesta a la pandemia y los cierres, los países de todo el mundo aplicaron estímulos
+fiscales a una escala no vista desde la Segunda Guerra Mundial, pero la respuesta fiscal
+estadounidense en particular fue una de las más grandes en porcentaje del PIB, eclipsando la
+respuesta fiscal a la crisis de 2008. Como resultado, la oferta monetaria amplia creció al ritmo
+interanual más rápido desde los años 40.
+11/29
+=== Pagina 12 ===
+Fuente de la lista: St. Louis Fed
+En este momento, el ciclo de deuda a largo plazo de la década de 2020 entró en la segunda fase;
+la parte de la burbuja de la deuda pública, similar a la de los años 40. El aumento de la
+concentración de riqueza y el populismo, junto con un catalizador externo, cambiaron la
+percepción pública y de los responsables políticos sobre los déficits fiscales, y se abrieron las
+compuertas.
+En muchos sentidos, las matemáticas eran inevitables para entonces, con deudas altas y tipos de
+interés bajos. Varios gestores de activos a escala institucional predecían hace años que la
+próxima recesión implicaría este tipo de respuestas fiscales inusualmente grandes, basándose en
+lo alta que era la deuda y lo bajos que eran los tipos de interés en este punto del ciclo de deuda a
+largo plazo, lo que haría que la política monetaria por sí sola fuera relativamente ineficaz.
+En otras palabras, la pandemia fue un catalizador y un acelerador, pero las piezas (alta deuda,
+gran concentración de riqueza y creciente populismo) ya estaban preparadas. Un sistema tan
+frágil no tenía defensa contra choques externos, y sí tuvimos un choque externo.
+Ray Dalio (cofundador de Bridgewater, el mayor fondo de cobertura del mundo) describió en su
+libro de 2018 Big Debt Crisis el concepto de "política monetaria 3", que consiste en combinar una
+política monetaria acomodaticia con inyecciones de efectivo impulsadas por el sistema fiscal en la
+economía, potencialmente hasta e incluyendo el dinero helicóptero. Popularizó el concepto del
+12/29
+=== Pagina 13 ===
+ciclo de deuda a largo plazo durante la última década, luego empezó a decir que finales de los
+años 2010 fueron en muchos aspectos como finales de los 30, y para 2019 argumentaba que la
+próxima recesión probablemente implicaría estas respuestas de "política monetaria 3" que no se
+veían desde los años 40.
+De manera similar, BlackRock publicó un artículo junto con Stanley Fisher (ex vicepresidente de
+la Junta de Gobernadores de la Reserva Federal de EE. UU.) en 2019 que también expuso el
+concepto de tener que "ir directamente" en la próxima recesión económica. El artículo describe el
+uso agresivo del estímulo fiscal hasta e incluyendo el dinero helicóptero, debido a la ineficacia de
+la política monetaria en esta etapa, y luego coordinarse con los responsables de la política
+monetaria para utilizar la represión financiera y mantener tipos de interés bajos incluso si hay una
+respuesta inflacionaria por el estímulo fiscal. (Un agradecimiento al analista financiero Luke
+Gromen por haberme dado cuenta de ese artículo hace unos meses.)
+Crecimiento de la oferta monetaria y subidas de precios
+Los aumentos significativos en los precios al consumidor suelen estar correlacionados (tras un
+ligero retraso) con un aumento brusco y sostenido de la oferta monetaria per cápita. Estos
+gráficos muestran el cambio móvil de 5 años en la oferta monetaria general per cápita en azul, y
+el cambio en porcentaje móvil de 5 años en el índice de precios al consumidor en naranja.
+Estados Unidos:
+13/29
+=== Pagina 14 ===
+El Reino Unido:
+14/29
+=== Pagina 15 ===
+Japón:
+15/29
+=== Pagina 16 ===
+Australia:
+16/29
+=== Pagina 17 ===
+Si la oferta monetaria general aumenta rápidamente mientras que las materias primas y otros
+recursos son abundantes, no necesariamente causa inflación. Sin embargo, cuando se produce
+un crecimiento brusco de la oferta monetaria junto con cierto grado de escasez de recursos o
+limitaciones en la cadena de suministro, es bastante probable que la inflación de precios ocurra.
+Inflación impulsada por el fiscal
+Hay dos causas por las que la oferta monetaria general aumenta tan rápidamente en ciertos
+periodos de tiempo. O bien 1) los bancos otorgan mucho préstamo, lo que genera depósitos y
+aumenta el multiplicador monetario, o 2) el gobierno tiene grandes déficits fiscales y hace que el
+banco central y el sistema bancario comercial compren gran parte de la deuda asociada a ese
+gasto.
+17/29
+=== Pagina 18 ===
+Este gráfico muestra el cambio anual como porcentaje del PIB en la oferta monetaria general, los
+préstamos bancarios y los déficits fiscales, para ver qué palancas están impulsando los cambios
+en la oferta monetaria a lo largo del tiempo:
+El crecimiento de la oferta monetaria en los años 40 se debió enteramente a enormes déficits
+fiscales más que a préstamos bancarios. Por el contrario, el crecimiento de la oferta monetaria en
+los años 70 se debió principalmente a altos niveles de préstamos bancarios, que se vieron
+agravados por déficits fiscales que iban crecientes.
+Respuesta de la política monetaria de los años 40 frente a los 70
+18/29
+=== Pagina 19 ===
+La Reserva Federal de EE. UU. respondió de forma muy diferente a la inflación impulsada por el
+fiscal de los años 40 frente a la inflación impulsada por préstamos de los años 70.
+Este conjunto de gráficos muestra el índice de precios al consumidor interanual en azul y los tipos
+de interés a corto plazo en rojo:
+19/29
+=== Pagina 20 ===
+Fuente de la lista: St. Louis Fed
+20/29
+=== Pagina 21 ===
+En los años 70, la deuda pública y privada como porcentaje del PIB era baja. La oferta monetaria
+aumentaba más por los préstamos bancarios que por los déficits fiscales, lo que significa que la
+inflación estaba mayormente en manos de la Fed para detenerse. Gracias a los bajos niveles de
+deuda en toda la economía, la Fed pudo subir los tipos de interés hasta niveles de dos dígitos
+para frenar la concesión de préstamos bancarios y reducir la inflación. Sin embargo, no fueron
+muy agresivos hasta finales de la década, lo que provocó que la inflación fuera más alta y durante
+más tiempo de lo previsto durante la mayor parte de la década.
+Por otro lado, la deuda pública como porcentaje del PIB era muy alta en los años 40. Cuando la
+deuda del gobierno como porcentaje del PIB supera el 100%, los tipos de interés incluso de un
+solo dígito medio resultarían en niveles monstruosos de interés en relación con el PIB y los
+ingresos fiscales, provocando una espiral de gasto fiscal. La inflación de precios al consumidor
+venía en picos periódicos debido al gasto fiscal y a los cambios en los controles salariales, pero
+con altos niveles de deuda pública, la Fed mantuvo los tipos bajos e incluso limitó los tipos a largo
+plazo de los bonos del Tesoro con flexibilización cuantitativa, dejando que la inflación se calentara
+y desinflara parte de la deuda. Cualquiera que tuviera efectivo físico, en un banco, en bonos del
+Tesoro o en bonos del Tesoro perdió entre el 30 y el 50% de su poder adquisitivo entre 1941 y
+1951.
+Respuesta política en los años 2020
+Con niveles de deuda pública y privada muy altos en relación con el PIB de nuevo, los años 2020
+se perfilan en una dirección similar (no necesariamente en magnitud) a los años 40 en cuanto a
+cómo probablemente responderá la Fed a los estallidos de inflación.
+Estamos en medio de un pico inflacionario, mientras la Fed se compromete a mantener los tipos
+en cero y monetizar los déficits estadounidenses, por falta de otras alternativas.
+21/29
+=== Pagina 22 ===
+Fuente de la lista: St. Louis Fed
+Con su nueva política de Objetivo de Inflación Media, la Fed está apuntando intencionadamente a
+niveles de inflación por encima del 2% durante un periodo de tiempo, mientras mantiene los tipos
+en cero durante un tiempo.
+Además, dado que la inflación está impulsada por lo fiscal y no por los préstamos, la Fed vería
+poco motivo para frenar de inmediato subiendo los tipos si se produce un pico inflacionario. Se
+mantienen en la narrativa de que la inflación es transitoria debido a la respuesta fiscal y a la
+escasez en la cadena de suministro, y por tanto no requiere una respuesta política inmediata.
+Además, con niveles tan altos de deuda pública, los tipos de interés elevados son insostenibles. A
+finales de este año, el gobierno de EE. UU. tendrá alrededor de 30 billones de dólares en deuda
+federal y en aumento. Por cada tipo medio de interés del 1% sobre esa deuda, debían más de
+300.000 millones de dólares en intereses anuales. Por tanto, los responsables políticos tienen un
+fuerte incentivo para mantener los tipos bajos a pesar de los eventos inflacionarios periódicos que
+puedan ocurrir.
+Inflación transitoria y choques de oferta
+A menudo escucharás de los responsables políticos o de los medios que la inflación es
+transitoria.
+22/29
+=== Pagina 23 ===
+Muchos tipos de inflación ocurren rápidamente y luego se enfrian de repente. De hecho, aquí
+tienes un modelo de cómo podría ser la inflación de precios este año:
+Fuente de la lista: Steno Larsen, Enlund, Sarwe, en Nordea
+Sin embargo, como describí en mi artículo reciente sobre la inflación, hay una gran diferencia
+entre una inflación que es solo transitoria en términos de tasa de cambio, y una inflación que es
+verdaderamente transitoria en términos absolutos.
+Una inflación verdaderamente transitoria en términos absolutos significaría que muchos precios
+suben debido a algún tipo de choque temporal de oferta, y luego vuelven a bajar cuando el
+choque de oferta ha pasado.
+Por otro lado, una inflación que solo es transitoria en términos de tasa de cambio significaría que
+un amplio conjunto de precios salta rápidamente y luego deja de subir, pero nunca vuelve a bajar
+realmente. En cambio, atraviesan un aumento permanente y escalonado de los niveles de precios
+y alcanzan un nuevo equilibrio a un nivel superior.
+Este primer gráfico muestra el cambio interanual del índice de precios al consumidor (también
+conocido como inflación de precios) en los años 40. De hecho, cada pico inflacionario era
+transitorio. Sin embargo, el segundo gráfico muestra el nivel absoluto del índice de precios al
+23/29
+=== Pagina 24 ===
+consumidor. Tras cada pico inflacionario, los precios se mantenían en ese estancamiento
+permanentemente superior. En otras palabras, la inflación era transitoria en términos de tasa de
+cambio, pero no en términos absolutos.
+24/29
+=== Pagina 25 ===
+25/29
+=== Pagina 26 ===
+Fuente de la lista: St. Louis Fed
+El actual pico inflacionario que estamos viendo en 2021 se está descartando como causado por
+choques de oferta. Pero, por supuesto, todos los eventos inflacionarios implican choques de
+oferta. Ese es uno de los catalizadores inherentes de por qué ocurre la inflación, cada vez.
+Los años 40 estuvieron marcados por todo tipo de escasez de materias primas y mano de obra
+relacionadas con la guerra. Los años 70 tuvieron el embargo petrolero. La década de 2020
+presenta escasez de semiconductores, diversas escaseces de materias primas y limitaciones en
+el envío.
+Los choques externos o accidentales de oferta por sí solos acaban haciendo que los precios
+vuelvan a la normalidad cuando se resuelve el choque anómalo de oferta. Implican bienes o
+servicios específicos.
+Por otro lado, los aumentos rápidos en la oferta monetaria general que impulsan la demanda de
+bienes y servicios sin aumentar la oferta de bienes y servicios, provocan choques de oferta y
+provocan inflación de precios. A medida que el mercado se ajusta con el tiempo, esta inflación de
+precios se vuelve transitoria en términos de tasa de cambio, pero con precios que finalmente se
+estabilizan en un nivel más alto, debido a que hay más dinero permanentemente en el sistema.
+Este segundo tipo de inflación probablemente sea lo que estamos experimentando en este
+momento.
+Algunos niveles de precios parabólicos específicos casi con toda seguridad volverán a bajar
+bastante. El comportamiento extremo de precios de la madera, por ejemplo, se debe a un cuello
+de botella agudo en el aserradero.
+Sin embargo, es poco probable que muchos precios vuelvan a ser antes de 2021. Muchas
+empresas, incluyendo Procter and Gamble (PG) y Coca Cola (KO), están subiendo los precios
+debido a los mayores costes de insumos. Muchas materias primas, como el cobre,
+probablemente no recuperarán completamente sus ganancias de 2020/2021. Chipotle (CMG)
+probablemente no revierta el cambio hacia un salario medio de 15 dólares una vez que los
+implemente. Estos son niveles de equilibrio más altos, con mucho más dinero en el sistema.
+Y como dijo Warren Buffett en Berkshire Hathaway's (BRK. B) junta anual de accionistas a
+principios de mayo:
+Estamos viendo una inflación muy sustancial. Estamos subiendo los precios. La gente nos
+está subiendo los precios y lo están aceptando.
+26/29
+=== Pagina 27 ===
+Reflexiones finales: Navegando la década de 2020
+En este entorno, generalmente soy más optimista respecto a las acciones que tradicionalmente
+caen en el lado del "valor" del espectro. Los productores y transportistas de energía, las
+instituciones financieras, las empresas industriales, los mineros de oro y las farmacéuticas
+parecen estar razonablemente valorados y se benefician de un entorno proinflacionario. También
+me gustan ciertas acciones de crecimiento, pero de forma selectiva.
+De hecho, ha habido una especie de rotación de crecimiento a valor, similar a principios de los
+años 2000. Este gráfico es la proporción entre el índice Russell 1000 Value y el índice Russell
+1000 Growth. Cuando sube, significa que el valor está superando el rendimiento, y cuando baja,
+significa que el crecimiento está superando.
+Finales de los años 2010 se parecen mucho a finales de los 90, tanto en el rendimiento del sector
+bursátil como en factores macroeconómicos.
+Ambos entornos mostraron un dólar en fortalecimiento, precios bajos de las materias primas y un
+rendimiento superior a los sectores tecnológicos y de crecimiento. Cuando se produjo la reversión
+a principios de los 2000, provocó más de medio decenio de debilitamiento del dólar,
+fortalecimiento de materias primas, rendimiento superior a renta variable y rendimiento superior a
+las acciones internacionales. Mi caso base es ver un resultado similar en la década de 2020.
+27/29
+=== Pagina 28 ===
+Sin embargo, espero que los años 2020 sean un camino lleno de baches. Los periodos
+fluctuantes de política fiscal agresiva o inexistente probablemente jugarán un papel principal en
+los picos inflacionarios y los periodos de enfriamiento inflacionario. La Fed tiene que mantener los
+tipos bajos sin importar lo que haga la inflación, descartándolo como transitorio y relacionado con
+la cadena de suministro, pero podrían tener periodos en los que intenten brevemente endurecer y
+ralentizar las cosas, antes de cambiar de rumbo y volverse dovish cuando algo se rompe.
+Por eso, debemos estar alerta, monitorizar los indicadores económicos en términos de tasa de
+cambio y centrarnos en empresas de calidad a buenas valoraciones.
+Hace dos años, cerca del final del ciclo económico pasado, varias revistas empezaron a publicar
+portadas sobre la inflación como cosa del pasado. Aquí, a mediados de 2021, la inflación se está
+convirtiendo en un tema popular en las portadas de revistas.
+Como la mayoría de las cosas, espero que esto se exagere durante periodos de tiempo. Yo
+sugeriría titulares que se desvanecen y subidas parabólicas de los precios de las materias
+primas. Los precios de la madera, por ejemplo, ya han alcanzado niveles extremadamente altos y
+en los últimos días han vuelto a bajar. No es una materia prima que me valore especialmente a
+partir de los niveles elevados actuales.
+Sin embargo, creo que merece la pena estar atentos a cosas que aún no han desaparecido
+realmente, como el sector energético y la industria del oro. Algunas de estas zonas tienen largos
+caminos por delante, en mi opinión. En el último mes, algunas partes del mundo siguen sufriendo
+confinamientos continuos y aumentos de casos de virus, por lo que algunos aspectos de la
+economía global, como el mercado energético, ni siquiera se han recuperado del todo.
+Un cordial saludo,
+28/29
+=== Pagina 29 ===
+29/29
